@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url> && cd project
+git clone https://github.com/Viriliter/movielens-1m-recommender.git && cd movielens-1m-recommender
 
 # 2. Create and activate a virtual environment
 python -m venv .env && source .env/bin/activate
